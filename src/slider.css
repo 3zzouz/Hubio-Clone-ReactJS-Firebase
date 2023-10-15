@@ -1,0 +1,17 @@
+.react-multi-carousel-dot button {
+    margin: 0 0.5rem;
+    width: 3rem;
+    height: 0.4rem;
+    border-radius: 0.4rem;
+    background: rgba(128, 128, 128, 0.334) ;
+    border:none;
+}
+.react-multi-carousel-dot button:hover:active {
+    background:#007aff !important;
+}
+.react-multi-carousel-dot--active button{
+    background: #007aff!important;
+}
+.react-multi-carousel-dot-list {
+    flex-wrap: wrap;
+}
